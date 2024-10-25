@@ -21,8 +21,8 @@ I wanted to make a very simple color picker with a GUI and to add a couple of us
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/csisztaiarnold/color_picker.git
-    cd color_picker
+    git clone git@github.com:csisztaiarnold/screen_color_picker.git
+    cd scree_color_picker
     ```
 
 2. Install the required libraries:
